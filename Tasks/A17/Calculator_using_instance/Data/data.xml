@@ -1,0 +1,10 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0.1</Version>
+<Object>
+<Name>Class Object</Name>
+<NumLevels>1</NumLevels>
+<Class>Arithmetic_Operations.lvclass</Class>
+<Version>0.0.0.0</Version>
+</Object>
+</LVData>
