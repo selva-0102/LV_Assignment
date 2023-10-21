@@ -1,0 +1,13 @@
+
+
+Property Node (arg 1) in Calculator_Using_Objects.lvlib:main.vi
+<APPEND>
+Property Name: <b>Active Item:Tag</b>
+
+Property Node (arg 1) in Calculator_Using_Objects.lvlib:main.vi
+<APPEND>
+Property Name: <b>Active Item:Tag</b>
+
+Property Node (arg 1) in Calculator_Using_Objects.lvlib:main.vi
+<APPEND>
+Property Name: <b>Active Item:Tag</b>

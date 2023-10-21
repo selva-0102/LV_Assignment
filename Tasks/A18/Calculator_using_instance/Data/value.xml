@@ -1,0 +1,74 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0.1</Version>
+<Cluster>
+<Name>Object and Name Array</Name>
+<NumElts>2</NumElts>
+<Array>
+<Name>Object  Array</Name>
+<Dimsize>2</Dimsize>
+<Object>
+<Name>Arithmetic_Operations.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>Add.lvclass</Class>
+<Version>1.0.0.5</Version>
+<Version>1.0.0.2</Version>
+<Cluster>
+</Cluster>
+<Cluster>
+<Name>Add.lvclass</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Num 1</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Num 2</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Output</Name>
+<Val>4.00000000000000</Val>
+</DBL>
+</Cluster>
+</Object>
+<Object>
+<Name>Arithmetic_Operations.lvclass</Name>
+<NumLevels>2</NumLevels>
+<Class>Add.lvclass</Class>
+<Version>1.0.0.5</Version>
+<Version>1.0.0.2</Version>
+<Cluster>
+</Cluster>
+<Cluster>
+<Name>Add.lvclass</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Num 1</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Num 2</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Output</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+</Cluster>
+</Object>
+</Array>
+<Array>
+<Name>Tree Entry</Name>
+<Dimsize>2</Dimsize>
+<String>
+<Name>Name</Name>
+<Val>Add</Val>
+</String>
+<String>
+<Name>Name</Name>
+<Val>Add_1</Val>
+</String>
+</Array>
+</Cluster>
+</LVData>
