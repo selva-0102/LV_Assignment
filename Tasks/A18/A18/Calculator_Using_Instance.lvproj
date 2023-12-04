@@ -13,11 +13,6 @@
 		<Item Name="source" Type="Folder">
 			<Item Name="Classes" Type="Folder">
 				<Item Name="Arithmetic_Operations" Type="Folder">
-					<Item Name="Acessors" Type="Folder">
-						<Item Name="Num_1" Type="Folder"/>
-						<Item Name="Num_2" Type="Folder"/>
-						<Item Name="Output" Type="Folder"/>
-					</Item>
 					<Item Name="Arithmetic_Operations.lvclass" Type="LVClass" URL="../Classes/Arithmetic_Operations/Arithmetic_Operations.lvclass"/>
 				</Item>
 				<Item Name="Children" Type="Folder">
