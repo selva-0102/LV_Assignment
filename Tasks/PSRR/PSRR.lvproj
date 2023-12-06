@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="source" Type="Folder">
 			<Item Name="SubVI&apos;s" Type="Folder">
+				<Item Name="Do logging.vi" Type="VI" URL="../SubVI&apos;s/Do logging.vi"/>
 				<Item Name="Find_error_type.vi" Type="VI" URL="../Find_error_type.vi"/>
 				<Item Name="Q_Driver.vi" Type="VI" URL="../SubVI&apos;s/Q_Driver.vi"/>
 				<Item Name="Remove_call_chain.vi" Type="VI" URL="../SubVI&apos;s/Remove_call_chain.vi"/>
@@ -21,6 +22,7 @@
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="Data_Cluster.ctl" Type="VI" URL="../Typedef&apos;s/Data_Cluster.ctl"/>
 				<Item Name="Error_Cluster.ctl" Type="VI" URL="../Typedef&apos;s/Error_Cluster.ctl"/>
+				<Item Name="Constants.ctl" Type="VI" URL="../Typedef&apos;s/Constants.ctl"/>
 				<Item Name="Error_Count.ctl" Type="VI" URL="../Typedef&apos;s/Error_Count.ctl"/>
 				<Item Name="Error_type.ctl" Type="VI" URL="../Typedef&apos;s/Error_type.ctl"/>
 				<Item Name="Last_Error_Details.ctl" Type="VI" URL="../Typedef&apos;s/Last_Error_Details.ctl"/>
@@ -29,11 +31,11 @@
 				<Item Name="Q_Operations.ctl" Type="VI" URL="../Typedef&apos;s/Q_Operations.ctl"/>
 				<Item Name="Timer_Operations.ctl" Type="VI" URL="../Typedef&apos;s/Timer_Operations.ctl"/>
 				<Item Name="User_Events_Operations.ctl" Type="VI" URL="../Typedef&apos;s/User_Events_Operations.ctl"/>
+				<Item Name="Error_Headings.ctl" Type="VI" URL="../Typedef&apos;s/Error_Headings.ctl"/>
 			</Item>
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 			<Item Name="Synchronous PSRR Meter.vi" Type="VI" URL="../Synchronous PSRR Meter.vi"/>
 		</Item>
-		<Item Name="Constants.ctl" Type="VI" URL="../Typedef&apos;s/Constants.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>

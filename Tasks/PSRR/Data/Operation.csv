@@ -1,5 +1,5 @@
-Type Of Error, Popup, Graph, Description, Table
-Critical Error, 1, No, Yes, No
-Passive Error, 3, Yes, Yes, No
-Unknown Error, 3, Yes, No, Yes
-Warning, 0, Yes, Yes, Yes
+Type Of Error,Popup,Graph,Description,Table
+Critical Error,2,Yes,Yes,Yes
+Passive Error,3,Yes,Yes,Yes
+Unknown Error,3,Yes,No,Yes
+Warning,0,Yes,Yes,Yes
