@@ -33,6 +33,7 @@
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 			<Item Name="Synchronous PSRR Meter.vi" Type="VI" URL="../Synchronous PSRR Meter.vi"/>
 		</Item>
+		<Item Name="Constants.ctl" Type="VI" URL="../Typedef&apos;s/Constants.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
