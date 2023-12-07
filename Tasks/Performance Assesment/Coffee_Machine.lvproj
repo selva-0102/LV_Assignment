@@ -20,7 +20,7 @@
 			</Item>
 			<Item Name="Typdef&apos;s" Type="Folder">
 				<Item Name="Bewarage_Out_Level.ctl" Type="VI" URL="../Typedef&apos;s/Bewarage_Out_Level.ctl"/>
-				<Item Name="Content_Level.ctl" Type="VI" URL="../Typedef&apos;s/Content_Level.ctl"/>
+				<Item Name="Content Level.ctl" Type="VI" URL="../Typedef&apos;s/Content Level.ctl"/>
 				<Item Name="Data_Cluster.ctl" Type="VI" URL="../Typedef&apos;s/Data_Cluster.ctl"/>
 				<Item Name="Low_Level_Indications.ctl" Type="VI" URL="../Typedef&apos;s/Low_Level_Indications.ctl"/>
 				<Item Name="Operation_Indication.ctl" Type="VI" URL="../Typedef&apos;s/Operation_Indication.ctl"/>
@@ -30,6 +30,7 @@
 			</Item>
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		</Item>
+		<Item Name="Constants.ctl" Type="VI" URL="../Typedef&apos;s/Constants.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
