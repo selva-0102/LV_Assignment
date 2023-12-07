@@ -1,4 +1,18 @@
 
-Error occurred in the state: Get Constant Values !!!!
-Error Code : 1
-Error Source : Dequeue Element in NI_LVConfig.lvlib:Read Key (String).vi->main.vi
+Error occurred in the state: Enable Controls On Bevarage Level !!!!
+Error Code : 1077
+Error Source : Property Node (arg 1) in main.vi
+<APPEND>
+Property Name: <b>Text Labels[]</b>
+
+
+Error occurred in the state: Enable Controls On Bevarage Level !!!!
+Error Code : 1077
+Error Source : Property Node (arg 1) in main.vi
+<APPEND>
+Property Name: <b>Text Labels[]</b>
+Error occurred in the state: Enable Controls On Bevarage Level !!!!
+Error Code : 1077
+Error Source : Property Node (arg 1) in main.vi
+<APPEND>
+Property Name: <b>Text Labels[]</b>
